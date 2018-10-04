@@ -1,0 +1,33 @@
+C:\Users\ArCadianOX\AppData\Local\Temporary Projects\Safe world\bin\Debug\Safe world.exe
+C:\Users\ArCadianOX\AppData\Local\Temporary Projects\Safe world\bin\Debug\Safe world.pdb
+C:\Users\ArCadianOX\AppData\Local\Temporary Projects\Safe world\bin\Debug\Safe world.xml
+C:\Users\ArCadianOX\AppData\Local\Temporary Projects\Safe world\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ArCadianOX\AppData\Local\Temporary Projects\Safe world\obj\x86\Debug\Safe_world.Form1.resources
+C:\Users\ArCadianOX\AppData\Local\Temporary Projects\Safe world\obj\x86\Debug\Safe_world.Resources.resources
+C:\Users\ArCadianOX\AppData\Local\Temporary Projects\Safe world\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ArCadianOX\AppData\Local\Temporary Projects\Safe world\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ArCadianOX\AppData\Local\Temporary Projects\Safe world\obj\x86\Debug\Safe world.exe
+C:\Users\ArCadianOX\AppData\Local\Temporary Projects\Safe world\obj\x86\Debug\Safe world.xml
+C:\Users\ArCadianOX\AppData\Local\Temporary Projects\Safe world\obj\x86\Debug\Safe world.pdb
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\Safe world\Safe world\obj\x86\Debug\Safe world.exe
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\Safe world\Safe world\obj\x86\Debug\Safe world.xml
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\Safe world\Safe world\obj\x86\Debug\Safe world.pdb
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\Safe world\Safe world\bin\Debug\Safe world.exe
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\Safe world\Safe world\bin\Debug\Safe world.pdb
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\Safe world\Safe world\bin\Debug\Safe world.xml
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\Safe world\Safe world\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\Safe world\Safe world\obj\x86\Debug\Safe_world.Form1.resources
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\Safe world\Safe world\obj\x86\Debug\Safe_world.Resources.resources
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\Safe world\Safe world\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\Safe world\Safe world\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\Safe world\Safe world\bin\Debug\Safe world.exe.config
+C:\Users\Developers Security\Documents\PROGRAMING SOFT\Parental\Parental\Safe world\Safe world\bin\Debug\Safe world.exe.config
+C:\Users\Developers Security\Documents\PROGRAMING SOFT\Parental\Parental\Safe world\Safe world\obj\x86\Debug\Safe world.exe
+C:\Users\Developers Security\Documents\PROGRAMING SOFT\Parental\Parental\Safe world\Safe world\obj\x86\Debug\Safe world.xml
+C:\Users\Developers Security\Documents\PROGRAMING SOFT\Parental\Parental\Safe world\Safe world\obj\x86\Debug\Safe world.pdb
+C:\Users\Developers Security\Documents\PROGRAMING SOFT\Parental\Parental\Safe world\Safe world\bin\Debug\Safe world.exe
+C:\Users\Developers Security\Documents\PROGRAMING SOFT\Parental\Parental\Safe world\Safe world\bin\Debug\Safe world.pdb
+C:\Users\Developers Security\Documents\PROGRAMING SOFT\Parental\Parental\Safe world\Safe world\bin\Debug\Safe world.xml
+C:\Users\Developers Security\Documents\PROGRAMING SOFT\Parental\Parental\Safe world\Safe world\obj\x86\Debug\Safe_world.Form1.resources
+C:\Users\Developers Security\Documents\PROGRAMING SOFT\Parental\Parental\Safe world\Safe world\obj\x86\Debug\Safe_world.Resources.resources
+C:\Users\Developers Security\Documents\PROGRAMING SOFT\Parental\Parental\Safe world\Safe world\obj\x86\Debug\Safe world.vbproj.GenerateResource.Cache

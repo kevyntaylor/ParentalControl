@@ -1,0 +1,36 @@
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\controler\controler\bin\Debug\controler.exe
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\controler\controler\bin\Debug\controler.pdb
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\controler\controler\bin\Debug\controler.xml
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\controler\controler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\controler\controler\obj\x86\Debug\controler.Form1.resources
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\controler\controler\obj\x86\Debug\controler.Resources.resources
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\controler\controler\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\controler\controler\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\controler\controler\obj\x86\Debug\controler.exe
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\controler\controler\obj\x86\Debug\controler.xml
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\controler\controler\obj\x86\Debug\controler.pdb
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\controler\controler\bin\Debug\controler.exe.config
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\controler\controler\obj\x86\Debug\controler.Form2.resources
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\controler\controler\obj\x86\Debug\controler.Form3.resources
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\controler\controler\obj\x86\Debug\controler.Form4.resources
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\controler\controler\obj\x86\Debug\controler.Form5.resources
+C:\Users\ArCadianOX\documents\visual studio 2010\Projects\controler\controler\obj\x86\Debug\controler.Form6.resources
+C:\Users\Developers Security\Documents\PROGRAMING SOFT\Parental\Parental\controler\controler\bin\Debug\controler.exe.config
+C:\Users\Developers Security\Documents\PROGRAMING SOFT\Parental\Parental\controler\controler\obj\x86\Debug\controler.exe
+C:\Users\Developers Security\Documents\PROGRAMING SOFT\Parental\Parental\controler\controler\obj\x86\Debug\controler.xml
+C:\Users\Developers Security\Documents\PROGRAMING SOFT\Parental\Parental\controler\controler\obj\x86\Debug\controler.pdb
+F:\VB.NET\Parental\controler\controler\bin\Debug\controler.exe.config
+F:\VB.NET\Parental\controler\controler\obj\x86\Debug\controler.exe
+F:\VB.NET\Parental\controler\controler\obj\x86\Debug\controler.xml
+F:\VB.NET\Parental\controler\controler\obj\x86\Debug\controler.pdb
+F:\VB.NET\Parental\controler\controler\bin\Debug\controler.exe
+F:\VB.NET\Parental\controler\controler\bin\Debug\controler.pdb
+F:\VB.NET\Parental\controler\controler\bin\Debug\controler.xml
+F:\VB.NET\Parental\controler\controler\obj\x86\Debug\controler.Form1.resources
+F:\VB.NET\Parental\controler\controler\obj\x86\Debug\controler.Form2.resources
+F:\VB.NET\Parental\controler\controler\obj\x86\Debug\controler.Form3.resources
+F:\VB.NET\Parental\controler\controler\obj\x86\Debug\controler.Form4.resources
+F:\VB.NET\Parental\controler\controler\obj\x86\Debug\controler.Form5.resources
+F:\VB.NET\Parental\controler\controler\obj\x86\Debug\controler.Form6.resources
+F:\VB.NET\Parental\controler\controler\obj\x86\Debug\controler.Resources.resources
+F:\VB.NET\Parental\controler\controler\obj\x86\Debug\controler.vbproj.GenerateResource.Cache
