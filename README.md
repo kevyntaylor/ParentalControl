@@ -15,6 +15,8 @@ envio de correos por actividad sospechosa
 toma de screens en tiempo real de lo que hace
 control de el equipo via comandos
 bloqueo de procesos
+
+
 Desarrollador por: Kevyn taylor
 
 # Developers Security Group
